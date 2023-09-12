@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "NiceNameLogger"
-  spec.version      = "0.0.1"
-  spec.summary      = "A short description of NiceNameLogger."
+  spec.version      = "0.1.0"
+  spec.summary      = "A nice Name logger tool in Swift. Cheers"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
